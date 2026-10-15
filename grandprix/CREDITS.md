@@ -19,3 +19,16 @@
 - `s/mc/` — Kenney **Mini Characters** 1.0 (www.kenney.nl), CC0. 관중. `idle`·`sit` 동작만 남기고 줄였다(`game/shared/tools/slim-models.mjs`) — 게임이 그 자세로 굳혀 인스턴스로 그린다
 - `s/an/cow.glb` — Quaternius 「Cow」 (poly.pizza/m/5XSc2Fka3F), CC0 · `s/an/sheep.glb` — Quaternius 「Sheep」 (poly.pizza/m/C39AUXUUes), CC0. `Idle` 동작만 남겼다
 - `sky/sky-clear.jpg` — Poly Haven 「Kloofendal 48d Partly Cloudy (Pure Sky)」 · `sky/sky-rain.jpg` — 「Kloofendal Overcast (Pure Sky)」 · `sky/sky-snow.jpg` — 「Snow Field (Pure Sky)」 (polyhaven.com, Greg Zaal·Jarod Guest 외), CC0. 4k HDR 을 지평선 아래 6도부터 천정까지 잘라 선형 값 × k 를 sRGB JPG 로 담았다(`sky.json` 의 `k` — 게임이 1/k 를 곱해 되돌린다). 맑은 하늘은 해 방위를 게임 해 방위로 돌렸다
+
+## 스킨 모델 둘째 묶음(2026-10-15) — `m/sk/`
+
+모두 `game/shared/tools/slim-models.mjs`(확장 등록판)로 GLB 하나에 그림까지 담아 줄였다. 모양은 고치지 않았다.
+
+- `m/sk/tank.glb` — Quaternius 「Tank」 (poly.pizza/m/cW3zvvkMOM), CC0. 동작은 뺐다
+- `m/sk/moto.glb` — jeremy 「Motorcycle」 (poly.pizza/m/0lBe-ApqJs4), **CC-BY 3.0** — 출처를 남긴다
+- `m/sk/bike.glb` — jeremy 「Bicycle」 (poly.pizza/m/axc03j3xKfz), **CC-BY 3.0** — 출처를 남긴다
+- `m/sk/ufo.glb` — Kenney **Tower Defense Kit** 「enemy-ufo-a」 (www.kenney.nl), CC0
+- `m/sk/duck.glb` — CreativeTrio 「Rubber Duck」 (poly.pizza/m/oH3dEdlDpB), CC0
+- `m/sk/sofa.glb` — Kenney **Furniture Kit** 「loungeSofa」 (www.kenney.nl), CC0
+- `m/sk/cart.glb` — Kenney **Mini Market** 「shopping-cart」 (www.kenney.nl), CC0
+- `m/sk/p-male-a.glb` · `p-female-b.glb` · `p-male-c.glb` · `p-female-d.glb` — Kenney **Mini Characters** 1.0 (www.kenney.nl), CC0. 동작 `idle`·`walk`·`sprint`·`sit`·`drive`·`holding-both`·`holding-right` 만 남겼다. 달리는 사람·말·자전거·오토바이·카트·산책 스킨의 사람
