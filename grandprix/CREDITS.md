@@ -32,3 +32,5 @@
 - `m/sk/sofa.glb` — Kenney **Furniture Kit** 「loungeSofa」 (www.kenney.nl), CC0
 - `m/sk/cart.glb` — Kenney **Mini Market** 「shopping-cart」 (www.kenney.nl), CC0
 - `m/sk/p-male-a.glb` · `p-female-b.glb` · `p-male-c.glb` · `p-female-d.glb` — Kenney **Mini Characters** 1.0 (www.kenney.nl), CC0. 동작 `idle`·`walk`·`sprint`·`sit`·`drive`·`holding-both`·`holding-right` 만 남겼다. 달리는 사람·말·자전거·오토바이·카트·산책 스킨의 사람
+- `m/sk/chariot.glb` — marquestomas.work 「Roman Race Chariot」 (sketchfab.com/3d-models/roman-race-chariot-6423c7b7dd3d40558be92a1b7f65e9ac), **CC-BY 4.0** — 출처를 남긴다. 노멀·거칠기 지도를 빼고 바탕색 그림만 512 webp 로 줄였다(2026-10-16)
+- `m/sk/carriage.glb` — lauramakesgames 「Horse Carriage」 (sketchfab.com/3d-models/horse-carriage-b24c917246ee420aad3262b03db38ea7), **CC-BY-SA 4.0** — 출처를 남기고, 이 파일(줄인 판)도 같은 CC-BY-SA 4.0 으로 둔다. 노멀·거칠기 지도를 빼고 바탕색 그림만 512 webp 로 줄였다(2026-10-16)
