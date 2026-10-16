@@ -1,0 +1,102 @@
+{
+  "version": "0.2.0",
+  "canvas": [
+    640,
+    360
+  ],
+  "mode": "chapter-one",
+  "baseURL": "https://raw.githubusercontent.com/studiodk-kr/assets/main/hongye/v0.2.0/",
+  "assets": {
+    "village": {
+      "file": "village.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 802644,
+      "sha256": "d9596bf8b2db2899b5988c977c1ccdc34efb6bf132808b0679b1e26b50d3b5b5"
+    },
+    "museum": {
+      "file": "museum.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 439032,
+      "sha256": "832ec10bff6e5ce8fea7e49b74b57781fcb8780343bb1f508dcc8b018589716a"
+    },
+    "battle": {
+      "file": "battle.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 519562,
+      "sha256": "28af67f2e54da70caea9c05439a3200665335983b88f1ad8e7148d339b96f8c8"
+    },
+    "actors": {
+      "file": "actors.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 352276,
+      "sha256": "a2930c19d617c5b3fbffde3385879580e0bb5388e414661998fa18efd3a1a4d8"
+    },
+    "walk": {
+      "file": "walk.webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 391012,
+      "sha256": "35e14920d95531c161f521b6ca133896e19ac005d7fa827db9f2942e8729e776"
+    },
+    "battle-poses": {
+      "file": "battle-poses.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 319080,
+      "sha256": "5bb806b785fd2424bcf35023355af3d5ca810fd2b7663ff86f1264750d1cc4b1"
+    },
+    "places": {
+      "file": "places.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 891260,
+      "sha256": "bae65b507d89fa77fe4fc845e42f2c4f5e202ec279a0ec2d345d8409b3fb2801"
+    },
+    "cast": {
+      "file": "cast.webp",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 496976,
+      "sha256": "875b49285a578cb52badeccd449cc51da222e615155bfbf6d0036ed020c8b654"
+    },
+    "landscapes": {
+      "file": "landscapes.webp",
+      "width": 1672,
+      "height": 941,
+      "bytes": 832620,
+      "sha256": "ae7df71248237de03f63a6716d58655163a2b608577940e3fa509fbea19ab24c"
+    }
+  },
+  "atlases": {
+    "actors": {
+      "columns": 3,
+      "rowSplit": 0.58
+    },
+    "cast": {
+      "columns": 3,
+      "rowSplit": 0.53
+    },
+    "places": {
+      "columns": 2,
+      "rows": 2
+    },
+    "landscapes": {
+      "columns": 2,
+      "rows": 2
+    },
+    "walk": {
+      "columns": 3,
+      "rows": 3
+    },
+    "battle-poses": {
+      "columns": 2,
+      "rowSplit": 0.53
+    }
+  },
+  "provenance": "doc/art-prompts.json",
+  "notes": "원본 PNG를 크기 변경 없이 WebP로 인코딩. 역사 고증 감수와 전체 동작 프레임은 후속 제작."
+}
