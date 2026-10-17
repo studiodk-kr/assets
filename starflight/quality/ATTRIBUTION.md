@@ -13,3 +13,7 @@ Poly Haven Boulder 01, Coastal Cliff 02, Fir Sapling, Jacaranda Tree, Sand 01, A
 City Kit Commercial2.1 by Kenney https://kenney.nl/assets/city-kit-commercial , CC0-1.0 https://creativecommons.org/publicdomain/zero/1.0/ . Skyscrapers A/C/E and Building I; embedded original palette texture in GLB. No procedural placeholder boxes.
 
 External assets retain their original CC0/CC BY4.0 licenses. The Studio DK project license does not override these licenses. No paid marketplace assets or extracted viewer-only resources are included.
+
+## Frontier facilities
+
+Space Kit 2.0 by Kenney, CC0-1.0. https://kenney.nl/assets/space-kit . Unmodified hangar_largeA, hangar_roundGlass, satelliteDish_detailed, machine_generatorLarge, chimney_detailed, corridor_window, structure_detailed and rocket_fuelA GLBs. Individual source filenames, download URL and SHA256: environment.json.
