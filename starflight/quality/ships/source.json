@@ -1,0 +1,726 @@
+{
+  "title": "Proteron Ships",
+  "author": "Viktor Hahn",
+  "authorAccount": "Unnamed",
+  "source": "https://opengameart.org/content/proteron-ships",
+  "download": "https://opengameart.org/sites/default/files/gltf.zip",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "archiveSha256": "c55b967f7c8a93a60149080c8eaae38134e9a191bfd7bef374810d618993b2c4",
+  "modifications": "Embedded textures resized to maximum 1024 pixels. Opaque diffuse/base-color maps JPEG quality 88; normal, packed metallic/roughness, emission, and transparency maps retained as PNG. Geometry, materials, PBR map references, hierarchy and animation preserved.",
+  "models": [
+    {
+      "file": "archimedes.glb",
+      "bytes": 2655360,
+      "sha256": "d8beaae5f8acf66439887b0367d0ec69841ba4c11be5c0d337164482f1510b50",
+      "originalBytes": 9924020,
+      "originalSha256": "1412301860d8dd6cd0ed71cdd6b4fe20d9f171b8d13d6e655aa2a420c8fbfbe4",
+      "vertices": 17090,
+      "triangles": 8076,
+      "materials": 1,
+      "images": [
+        {
+          "name": "proteron_archimedes_emission",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/png",
+          "bytes": 6425
+        },
+        {
+          "name": "proteron_archimedes_normal",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/png",
+          "bytes": 772419
+        },
+        {
+          "name": "proteron_archimedes_diffuse",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/jpeg",
+          "bytes": 241003
+        },
+        {
+          "name": "proteron_archimedes_metallic-proteron_archimedes_roughness",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/png",
+          "bytes": 1038157
+        }
+      ],
+      "positionAccessorBounds": [
+        {
+          "min": [
+            -4.000003814697266,
+            -1.3949998617172241,
+            -9.204073905944824
+          ],
+          "max": [
+            4.000003814697266,
+            1.3949998617172241,
+            10
+          ]
+        }
+      ],
+      "nodes": [
+        {
+          "mesh": 0,
+          "name": "MeshLP"
+        }
+      ],
+      "animations": 0,
+      "worldBounds": {
+        "min": [
+          -4.000003814697266,
+          -1.3949998617172241,
+          -9.204073905944824
+        ],
+        "max": [
+          4.000003814697266,
+          1.3949998617172241,
+          10.0
+        ],
+        "size": [
+          8.000007629394531,
+          2.7899997234344482,
+          19.204073905944824
+        ],
+        "center": [
+          0.0,
+          0.0,
+          0.3979630470275879
+        ]
+      },
+      "orientation": {
+        "up": "+Y",
+        "bow": "+Z",
+        "basis": "Visual geometry projection: guns/nose face +Z; thruster cutouts face -Z.",
+        "suggestedRotateYRadians": 3.141592653589793,
+        "note": "Rotate Y by PI only when runtime forward is -Z; otherwise retain source axes. Center by world bounds, then scale longest world dimension to desired ship size."
+      },
+      "suggestedRole": "capital",
+      "validation": "GLB header, every bufferView boundary/alignment, decoded image dimensions, unchanged non-image binary ranges, accessors/materials/nodes verified against original."
+    },
+    {
+      "file": "dalton.glb",
+      "bytes": 1741800,
+      "sha256": "af2a69c32f76d11e20e3004be882e81fffa8f3fd1a2f95ff05b698d01fa111ec",
+      "originalBytes": 6079052,
+      "originalSha256": "afb97f6988cad2e1a7bf8d3f51e51b3471baca5c9ecf25791f5897dc4d69b3dd",
+      "vertices": 9190,
+      "triangles": 6564,
+      "materials": 1,
+      "images": [
+        {
+          "name": "proteron_dalton_emission",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/png",
+          "bytes": 6826
+        },
+        {
+          "name": "proteron_dalton_normal",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/png",
+          "bytes": 474973
+        },
+        {
+          "name": "proteron_dalton_diffuse",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/jpeg",
+          "bytes": 178789
+        },
+        {
+          "name": "proteron_dalton_metallic-proteron_dalton_roughness",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/png",
+          "bytes": 745738
+        }
+      ],
+      "positionAccessorBounds": [
+        {
+          "min": [
+            -4.379498481750488,
+            -1.34987473487854,
+            -3.162752628326416
+          ],
+          "max": [
+            4.379498481750488,
+            1.34987473487854,
+            2.6421425342559814
+          ]
+        }
+      ],
+      "nodes": [
+        {
+          "mesh": 0,
+          "name": "MeshLP"
+        }
+      ],
+      "animations": 0,
+      "worldBounds": {
+        "min": [
+          -4.379498481750488,
+          -1.34987473487854,
+          -3.162752628326416
+        ],
+        "max": [
+          4.379498481750488,
+          1.34987473487854,
+          2.6421425342559814
+        ],
+        "size": [
+          8.758996963500977,
+          2.69974946975708,
+          5.8048951625823975
+        ],
+        "center": [
+          0.0,
+          0.0,
+          -0.2603050470352173
+        ]
+      },
+      "orientation": {
+        "up": "+Y",
+        "bow": "+Z",
+        "basis": "Visual geometry projection: guns/nose face +Z; thruster cutouts face -Z.",
+        "suggestedRotateYRadians": 3.141592653589793,
+        "note": "Rotate Y by PI only when runtime forward is -Z; otherwise retain source axes. Center by world bounds, then scale longest world dimension to desired ship size."
+      },
+      "suggestedRole": "fighter",
+      "validation": "GLB header, every bufferView boundary/alignment, decoded image dimensions, unchanged non-image binary ranges, accessors/materials/nodes verified against original."
+    },
+    {
+      "file": "hippocrates.glb",
+      "bytes": 2002376,
+      "sha256": "23189e86d8faf2c39869c6775082e3ce17f581507d236e937cac1ec5f0cb0673",
+      "originalBytes": 8574696,
+      "originalSha256": "b5690a3e4532a94b0049975790a8aefe36923b21d03d122b325eb3bdb2bf53d4",
+      "vertices": 7505,
+      "triangles": 6302,
+      "materials": 1,
+      "images": [
+        {
+          "name": "hippocrates_emission",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/png",
+          "bytes": 11226
+        },
+        {
+          "name": "hippocrates_normal",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/png",
+          "bytes": 674306
+        },
+        {
+          "name": "hippocrates_diffuse",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/jpeg",
+          "bytes": 196730
+        },
+        {
+          "name": "hippocrates_metallic-hippocrates_roughness",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/png",
+          "bytes": 840171
+        }
+      ],
+      "positionAccessorBounds": [
+        {
+          "min": [
+            -7.18311071395874,
+            -1.8255304098129272,
+            -5.75
+          ],
+          "max": [
+            7.18311071395874,
+            1.8255304098129272,
+            8.850000381469727
+          ]
+        }
+      ],
+      "nodes": [
+        {
+          "mesh": 0,
+          "name": "MeshLP"
+        }
+      ],
+      "animations": 0,
+      "worldBounds": {
+        "min": [
+          -7.18311071395874,
+          -1.8255304098129272,
+          -5.75
+        ],
+        "max": [
+          7.18311071395874,
+          1.8255304098129272,
+          8.850000381469727
+        ],
+        "size": [
+          14.36622142791748,
+          3.6510608196258545,
+          14.600000381469727
+        ],
+        "center": [
+          0.0,
+          0.0,
+          1.5500001907348633
+        ]
+      },
+      "orientation": {
+        "up": "+Y",
+        "bow": "+Z",
+        "basis": "Visual geometry projection: guns/nose face +Z; thruster cutouts face -Z.",
+        "suggestedRotateYRadians": 3.141592653589793,
+        "note": "Rotate Y by PI only when runtime forward is -Z; otherwise retain source axes. Center by world bounds, then scale longest world dimension to desired ship size."
+      },
+      "suggestedRole": "fighter",
+      "validation": "GLB header, every bufferView boundary/alignment, decoded image dimensions, unchanged non-image binary ranges, accessors/materials/nodes verified against original."
+    },
+    {
+      "file": "pythagoras.glb",
+      "bytes": 2295360,
+      "sha256": "ac38c7859f2b7d81841ef4a6937c5db9873e57b7666979120aea3f8e887af1b0",
+      "originalBytes": 8945044,
+      "originalSha256": "edfae51ec3bf6d9a3be5faa75e329054a3f3a0039a5b207437bc164bbc8699de",
+      "vertices": 14541,
+      "triangles": 9173,
+      "materials": 2,
+      "images": [
+        {
+          "name": "unnamedmetal04",
+          "originalSize": [
+            512,
+            512
+          ],
+          "size": [
+            512,
+            512
+          ],
+          "mimeType": "image/jpeg",
+          "bytes": 22327
+        },
+        {
+          "name": "unnamedmetal04_s",
+          "originalSize": [
+            512,
+            512
+          ],
+          "size": [
+            512,
+            512
+          ],
+          "mimeType": "image/png",
+          "bytes": 50148
+        },
+        {
+          "name": "proteron_cruiser_emission",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/png",
+          "bytes": 7204
+        },
+        {
+          "name": "proteron_cruiser_normal",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/png",
+          "bytes": 731670
+        },
+        {
+          "name": "proteron_cruiser_diffuse",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/jpeg",
+          "bytes": 194401
+        },
+        {
+          "name": "proteron_cruiser_metallic-proteron_cruiser_roughness",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/png",
+          "bytes": 755914
+        }
+      ],
+      "positionAccessorBounds": [
+        {
+          "min": [
+            -0.7450003623962402,
+            -2.445000171661377,
+            -5.780001640319824
+          ],
+          "max": [
+            0.7449996471405029,
+            0.7450000047683716,
+            -4.019998073577881
+          ]
+        },
+        {
+          "min": [
+            -3.199500799179077,
+            -5,
+            -12.499996185302734
+          ],
+          "max": [
+            3.199500799179077,
+            5,
+            16.468425750732422
+          ]
+        }
+      ],
+      "nodes": [
+        {
+          "mesh": 0,
+          "name": "Torus",
+          "scale": [
+            1.2000000476837158,
+            1.2000000476837158,
+            1.2000000476837158
+          ],
+          "translation": [
+            0,
+            -0.5333333611488342,
+            -3.1999998092651367
+          ]
+        },
+        {
+          "children": [
+            0
+          ],
+          "mesh": 1,
+          "name": "MeshLP",
+          "rotation": [
+            0,
+            -0.02181488461792469,
+            0,
+            0.9997620582580566
+          ],
+          "scale": [
+            0.7500000596046448,
+            0.75,
+            0.7500000596046448
+          ],
+          "translation": [
+            0,
+            0,
+            -1
+          ]
+        }
+      ],
+      "animations": 2,
+      "worldBounds": {
+        "min": [
+          -2.3866406602764396,
+          -3.75,
+          -10.431504050758234
+        ],
+        "max": [
+          2.446582027729053,
+          3.75,
+          11.366826692000545
+        ],
+        "size": [
+          4.833222688005493,
+          7.5,
+          21.79833074275878
+        ],
+        "center": [
+          0.029970683726306735,
+          0.0,
+          0.46766132062115595
+        ]
+      },
+      "orientation": {
+        "up": "+Y",
+        "bow": "+Z",
+        "basis": "Visual geometry projection: guns/nose face +Z; thruster cutouts face -Z.",
+        "suggestedRotateYRadians": 3.141592653589793,
+        "note": "Rotate Y by PI only when runtime forward is -Z; otherwise retain source axes. Center by world bounds, then scale longest world dimension to desired ship size."
+      },
+      "suggestedRole": "cruiser / capital",
+      "validation": "GLB header, every bufferView boundary/alignment, decoded image dimensions, unchanged non-image binary ranges, accessors/materials/nodes verified against original."
+    },
+    {
+      "file": "watson.glb",
+      "bytes": 2707528,
+      "sha256": "f3ab219c0d938ca3e946be510f3d2315cacf21ea1112c4f3187a49cd87bfb81a",
+      "originalBytes": 10070816,
+      "originalSha256": "8d43ea85aca13f2f5286619eb9bca434e518688d71d741916ac80b3e0793d3ca",
+      "vertices": 18616,
+      "triangles": 10442,
+      "materials": 2,
+      "images": [
+        {
+          "name": "unnamedmetal04",
+          "originalSize": [
+            512,
+            512
+          ],
+          "size": [
+            512,
+            512
+          ],
+          "mimeType": "image/jpeg",
+          "bytes": 22327
+        },
+        {
+          "name": "unnamedmetal04_s",
+          "originalSize": [
+            512,
+            512
+          ],
+          "size": [
+            512,
+            512
+          ],
+          "mimeType": "image/png",
+          "bytes": 50148
+        },
+        {
+          "name": "proteron_watson_emission",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/png",
+          "bytes": 17645
+        },
+        {
+          "name": "proteron_watson_normal",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/png",
+          "bytes": 694870
+        },
+        {
+          "name": "proteron_watson_diffuse",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/jpeg",
+          "bytes": 214925
+        },
+        {
+          "name": "proteron_watson_metallic-proteron_watson_roughness",
+          "originalSize": [
+            2048,
+            2048
+          ],
+          "size": [
+            1024,
+            1024
+          ],
+          "mimeType": "image/png",
+          "bytes": 1035934
+        }
+      ],
+      "positionAccessorBounds": [
+        {
+          "min": [
+            -1.7316116094589233,
+            -9.22499942779541,
+            -1.1316128969192505
+          ],
+          "max": [
+            1.7316116094589233,
+            -7.824999809265137,
+            1.1316128969192505
+          ]
+        },
+        {
+          "min": [
+            -4.000003814697266,
+            -2.5500025749206543,
+            -8.704072952270508
+          ],
+          "max": [
+            4.000003814697266,
+            2.5500025749206543,
+            7.499999523162842
+          ]
+        }
+      ],
+      "nodes": [
+        {
+          "mesh": 0,
+          "name": "Cylinder.001",
+          "rotation": [
+            0.5000000596046448,
+            0.4999999403953552,
+            0.5,
+            0.5000000596046448
+          ],
+          "translation": [
+            0,
+            0,
+            0.5
+          ]
+        },
+        {
+          "children": [
+            0
+          ],
+          "mesh": 1,
+          "name": "MeshLP",
+          "rotation": [
+            0,
+            -0.02181488461792469,
+            0,
+            0.9997620582580566
+          ]
+        }
+      ],
+      "animations": 2,
+      "worldBounds": {
+        "min": [
+          -4.151045491278997,
+          -2.5500025749206543,
+          -8.764583182735429
+        ],
+        "max": [
+          4.020187374399852,
+          2.5500025749206543,
+          7.569195114565259
+        ],
+        "size": [
+          8.17123286567885,
+          5.100005149841309,
+          16.33377829730069
+        ],
+        "center": [
+          -0.06542905843957225,
+          0.0,
+          -0.5976940340850847
+        ]
+      },
+      "orientation": {
+        "up": "+Y",
+        "bow": "+Z",
+        "basis": "Visual geometry projection: guns/nose face +Z; thruster cutouts face -Z.",
+        "suggestedRotateYRadians": 3.141592653589793,
+        "note": "Rotate Y by PI only when runtime forward is -Z; otherwise retain source axes. Center by world bounds, then scale longest world dimension to desired ship size."
+      },
+      "suggestedRole": "heavy-fighter / gunship",
+      "validation": "GLB header, every bufferView boundary/alignment, decoded image dimensions, unchanged non-image binary ranges, accessors/materials/nodes verified against original."
+    }
+  ]
+}

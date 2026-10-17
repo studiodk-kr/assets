@@ -1,0 +1,215 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "file": "scenery/boulder.glb",
+      "bytes": 3406140,
+      "sha256": "918b86e550ce385001687addb99f1b8f4a72561c508872438f4864bbf139a4e1",
+      "triangles": 54100,
+      "source": "https://polyhaven.com/a/boulder_01",
+      "author": "Rico Cilliers",
+      "license": "CC0-1.0",
+      "changes": "GLB embedding, mesh simplification where appropriate and embedded images resized for browser delivery"
+    },
+    {
+      "file": "scenery/cliff.glb",
+      "bytes": 1213508,
+      "sha256": "68c0eeee435e1892a74fb21d27f1b77deb30d7b5892c96cbfd604efd0ccc24e9",
+      "triangles": 9430,
+      "source": "https://polyhaven.com/a/coastal_cliff_02",
+      "author": "Rob Tuytel and Rico Cilliers",
+      "license": "CC0-1.0",
+      "changes": "GLB embedding, mesh simplification where appropriate and embedded images resized for browser delivery"
+    },
+    {
+      "file": "scenery/hut.glb",
+      "bytes": 220788,
+      "sha256": "1227d15ba7ed8f9bbf6808d6bbb70f000a4994cf410a207709ece33f252063ec",
+      "triangles": 2544,
+      "source": "https://kenney.nl/assets/city-kit-commercial",
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "changes": "GLB embedding, mesh simplification where appropriate and embedded images resized for browser delivery"
+    },
+    {
+      "file": "scenery/palm.glb",
+      "bytes": 3849864,
+      "sha256": "738cd3c9f51bd538edece00aa15884bdc7957000c6c9f7c9345eefb4e949d95c",
+      "triangles": 17125,
+      "source": "https://polyhaven.com/a/jacaranda_tree",
+      "author": "Poly Haven",
+      "license": "CC0-1.0",
+      "changes": "GLB embedding, mesh simplification where appropriate and embedded images resized for browser delivery"
+    },
+    {
+      "file": "scenery/pine.glb",
+      "bytes": 2753500,
+      "sha256": "053f722e66d4be0ba40432c1ca5d91c8af6e3796c36183eb7573fabf93313e2f",
+      "triangles": 12336,
+      "source": "https://polyhaven.com/a/fir_sapling",
+      "author": "Poly Haven",
+      "license": "CC0-1.0",
+      "changes": "GLB embedding, mesh simplification where appropriate and embedded images resized for browser delivery"
+    },
+    {
+      "file": "scenery/towerA.glb",
+      "bytes": 122392,
+      "sha256": "758daca2d4eefecd8e688d08352d8e34f4ae10a2008477a01b7df4f5a35eea4a",
+      "triangles": 1292,
+      "source": "https://kenney.nl/assets/city-kit-commercial",
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "changes": "GLB embedding, mesh simplification where appropriate and embedded images resized for browser delivery"
+    },
+    {
+      "file": "scenery/towerB.glb",
+      "bytes": 160580,
+      "sha256": "5e72e945c2395849c87cce168b3de8d2c51b4a4c84e2ceaa6bf1e084d1778bf5",
+      "triangles": 1704,
+      "source": "https://kenney.nl/assets/city-kit-commercial",
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "changes": "GLB embedding, mesh simplification where appropriate and embedded images resized for browser delivery"
+    },
+    {
+      "file": "scenery/towerC.glb",
+      "bytes": 112936,
+      "sha256": "c1c6515bfe03e4508696036100ef5318eb2e3fbd39517649ee6f2db9bd4bbc47",
+      "triangles": 1156,
+      "source": "https://kenney.nl/assets/city-kit-commercial",
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "changes": "GLB embedding, mesh simplification where appropriate and embedded images resized for browser delivery"
+    },
+    {
+      "file": "terrain/asphalt-color.jpg",
+      "bytes": 447409,
+      "sha256": "cf17aeb741cf6aae8b2493d8197deafe97dea5f9dcac38d55cd7e3ecb7281a93",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "source": "https://polyhaven.com/a/asphalt_02",
+      "author": "Poly Haven",
+      "license": "CC0-1.0",
+      "changes": "JPEG quality88, 1K maps"
+    },
+    {
+      "file": "terrain/asphalt-normal.jpg",
+      "bytes": 387820,
+      "sha256": "608edc61b5a21c5763cd60442818db3321b068b78c26f3c7822881287b16b4c3",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "source": "https://polyhaven.com/a/asphalt_02",
+      "author": "Poly Haven",
+      "license": "CC0-1.0",
+      "changes": "JPEG quality88, 1K maps"
+    },
+    {
+      "file": "terrain/grass-color.jpg",
+      "bytes": 277959,
+      "sha256": "03b4228081edc3ea89eb31d439fa983c973f470901177ccd272caa883f0c31b3",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "source": "https://polyhaven.com/a/aerial_grass_rock",
+      "author": "Poly Haven",
+      "license": "CC0-1.0",
+      "changes": "JPEG quality88, 1K maps"
+    },
+    {
+      "file": "terrain/grass-normal.jpg",
+      "bytes": 301488,
+      "sha256": "02ff977352ee747e3bab772862b173daf44a9d3c72f015b3850afc883f732136",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "source": "https://polyhaven.com/a/aerial_grass_rock",
+      "author": "Poly Haven",
+      "license": "CC0-1.0",
+      "changes": "JPEG quality88, 1K maps"
+    },
+    {
+      "file": "terrain/rock-color.jpg",
+      "bytes": 400688,
+      "sha256": "7ef9b3f70e1934ad44ecf7a3a22140804eca98ca4331d8bcca4206f2eecd6389",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "source": "https://polyhaven.com/a/aerial_rocks_01",
+      "author": "Poly Haven",
+      "license": "CC0-1.0",
+      "changes": "JPEG quality88, 1K maps"
+    },
+    {
+      "file": "terrain/rock-normal.jpg",
+      "bytes": 525657,
+      "sha256": "f2824286b28214e01de1ad1a40d09c6a73298c7bfd3b62ff908cc166d1b3d76f",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "source": "https://polyhaven.com/a/aerial_rocks_01",
+      "author": "Poly Haven",
+      "license": "CC0-1.0",
+      "changes": "JPEG quality88, 1K maps"
+    },
+    {
+      "file": "terrain/sand-color.jpg",
+      "bytes": 237341,
+      "sha256": "b074656664ea1e43e11bc0bd28f94e0e9212b57065c43bc8de2905dc62540fa6",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "source": "https://polyhaven.com/a/sand_01",
+      "author": "Poly Haven",
+      "license": "CC0-1.0",
+      "changes": "JPEG quality88, 1K maps"
+    },
+    {
+      "file": "terrain/sand-normal.jpg",
+      "bytes": 309054,
+      "sha256": "c1c52f5d68a8aae3e57b6d578d924d4691799c4a65cc98155f55d69138db70f2",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "source": "https://polyhaven.com/a/sand_01",
+      "author": "Poly Haven",
+      "license": "CC0-1.0",
+      "changes": "JPEG quality88, 1K maps"
+    },
+    {
+      "file": "terrain/snow-color.jpg",
+      "bytes": 161925,
+      "sha256": "508e6708005068d49e16a80436a98bffbc4bca3295026b8da5b1fa9de5883289",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "source": "https://polyhaven.com/a/snow_02",
+      "author": "Poly Haven",
+      "license": "CC0-1.0",
+      "changes": "JPEG quality88, 1K maps"
+    },
+    {
+      "file": "terrain/snow-normal.jpg",
+      "bytes": 333658,
+      "sha256": "5b65108ccf536eea4abcac50396396506ffd489b3a445d979ce73d41e1df1516",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "source": "https://polyhaven.com/a/snow_02",
+      "author": "Poly Haven",
+      "license": "CC0-1.0",
+      "changes": "JPEG quality88, 1K maps"
+    }
+  ]
+}
