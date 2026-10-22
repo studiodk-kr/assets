@@ -1,0 +1,88 @@
+{
+  "created": "2026-10-22",
+  "tracks": [
+    {
+      "generator": "YuE2 via GDI music MCP",
+      "usage": "intro and title screens only; wordless humming retained as selected by the author",
+      "title": "경북귀농일기 - 마을에 불이 켜지면",
+      "game": "farmstory",
+      "style": "instrumental, pastoral acoustic game soundtrack, no vocals, nylon guitar, wooden flute, pizzicato strings, brushed percussion, warm and hopeful, memorable answering melodies, gentle steady groove, intimate natural production, 96 BPM",
+      "file": "bgm/farmstory/intro-yue2-20261022.mp3",
+      "seed": 20261022,
+      "song_id": "9f1b820e84c7",
+      "sha256": "a2a024df75fa1534d095b782e2cd604a2f33cdd8a351c30f59e5c6eea2057c34",
+      "duration_seconds": 107.798667
+    },
+    {
+      "generator": "YuE2 via GDI music MCP",
+      "usage": "intro and title screens only; wordless humming retained as selected by the author",
+      "title": "과제지옥 - 결재는 내일",
+      "game": "gdi",
+      "style": "instrumental, playful spy jazz game soundtrack, no vocals, muted trumpet, marimba, upright bass, brushed drums, witty office chaos and light suspense, catchy syncopated motif, energetic but unobtrusive, dry crisp production, 118 BPM",
+      "file": "bgm/gdi/intro-yue2-20261022.mp3",
+      "seed": 20261023,
+      "song_id": "e0cae8844e7b",
+      "sha256": "19c69b6e9f16644bbee013d0be8f04ae723d3dc45d7206a297f36f521b2fcb5d",
+      "duration_seconds": 69.158667
+    },
+    {
+      "generator": "YuE2 via GDI music MCP",
+      "usage": "intro and title screens only; wordless humming retained as selected by the author",
+      "title": "해동삼국지 - 강 위에 세운 나라",
+      "game": "sagukji",
+      "style": "instrumental, Korean historical strategy soundtrack, no vocals or choir, daegeum, gayageum, low strings, restrained janggu, dignified thoughtful and hopeful, lyrical pentatonic melody with measured pulse, spacious acoustic production, 84 BPM",
+      "file": "bgm/sagukji/intro-yue2-20261022.mp3",
+      "seed": 20261025,
+      "song_id": "77d4921b4dbb",
+      "sha256": "c8fd6b631a50174dee5017c40204231dcb54fd787aeda7c94f9aa18ce8efc28d",
+      "duration_seconds": 109.878667
+    },
+    {
+      "generator": "YuE2 via GDI music MCP",
+      "usage": "intro and title screens only; wordless humming retained as selected by the author",
+      "title": "새벽바라기 - 마지막 가로등",
+      "game": "dawn",
+      "style": "instrumental, nocturnal survival suspense soundtrack, no vocals, felt piano, muted cello, analog bass pulse, soft electronic percussion, tense but restrained with distant hope, recurring clear three note motif, sparse controlled dynamics without jumpscares, 92 BPM",
+      "file": "bgm/dawn/intro-yue2-20261022.mp3",
+      "seed": 20261026,
+      "song_id": "46178656b938",
+      "sha256": "35bd748c54f214d1c2f1bd07c43c3f3dd752399b8f20360d32657a01a324533c",
+      "duration_seconds": 129.158667
+    },
+    {
+      "generator": "YuE2 via GDI music MCP",
+      "usage": "intro and title screens only; wordless humming retained as selected by the author",
+      "title": "The Tower - 기억을 따라 오르는 계단",
+      "game": "tower",
+      "style": "instrumental, melodic fantasy adventure game soundtrack, no vocals or choir, celesta, solo violin, harp, warm strings, mysterious determined and bittersweet, memorable rising melody with answering phrases, gentle rhythmic motion, cinematic chamber production, 106 BPM",
+      "file": "bgm/tower/intro-yue2-20261022.mp3",
+      "seed": 20261127,
+      "song_id": "228d6ca9ed36",
+      "sha256": "8fb4f43e141c7f5e751d4151ad708647c458d837e6066a2e91d24986f59c56d9",
+      "duration_seconds": 282.838667
+    },
+    {
+      "generator": "YuE2 via GDI music MCP",
+      "usage": "intro and title screens only",
+      "title": "딸깍그랑프리 - 초록불의 질주 v3",
+      "game": "grandprix",
+      "file": "bgm/grandprix/intro-yue2-20261023.mp3",
+      "song_id": "4bf472074f42",
+      "source_song_id": null,
+      "duration_seconds": 57.318667,
+      "sha256": "d6a8e8df0b73b57e1d83eb6514a1ffa8b2ae4d50899a406fb01cdb99e289e4e7"
+    },
+    {
+      "generator": "YuE2 via GDI music MCP",
+      "usage": "intro and title screens only",
+      "title": "스타플라이트 - 푸른 항로 원곡 악기 변경",
+      "game": "starflight",
+      "file": "starflight/music/intro-yue2-20261023.mp3",
+      "song_id": "055d15b97ceb",
+      "source_song_id": "c207efb9e2d5",
+      "duration_seconds": 161.558667,
+      "sha256": "0b47cf8d44900b71abee22599fb5cd1959711075ff53d507272474b0d63c9b92"
+    }
+  ],
+  "updated": "2026-10-23"
+}
