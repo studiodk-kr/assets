@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "project": "영웅천하",
+  "tracks": [
+    {
+      "scene": "home",
+      "title": "천하의 새벽",
+      "filename": "dawn-of-heroes-v1.mp3",
+      "request": {
+        "title": "영웅천하 — 천하의 새벽",
+        "style": "instrumental, no vocals, no choir, no speech, East Asian historical fantasy strategy game main theme, 82 BPM, D minor with hopeful pentatonic motifs, expressive bamboo flute and gayageum-like plucked zither, warm chamber strings, soft low frame drums, dignified and contemplative heroic atmosphere, spacious clear melody, restrained dynamics, background-friendly, short gentle introduction, repeating memorable theme, approximately 90 seconds, loop-friendly arrangement",
+        "lyrics": "[Intro]\n[Verse]\n[Chorus]\n[Verse]\n[Chorus]\n[Outro]",
+        "instrumental": true,
+        "plan_mode": "full",
+        "seed": 20261107
+      },
+      "server_label": "GDI music / YuE2",
+      "model_checkpoint": "not reported by server",
+      "job_id": "0c4facdf5c2a",
+      "created_at": "2026-11-07T23:37:24+0900",
+      "source_seconds": 268.198667,
+      "duration_seconds": 268.198667,
+      "source_flac_sha256": "c60f9bdba5526499cc2d8cb7679280e69420afaac52f0f49f6ae00afaf57e296",
+      "playback_sha256": "9e1da49fb712b6aa939c19ea68fdedb4fd76e275f90433569797559f72e291db",
+      "playback_bytes": 5365078,
+      "output": {
+        "codec": "mp3",
+        "bitrate": 160000,
+        "sample_rate": 48000,
+        "channels": 2
+      },
+      "mastering": {
+        "target_integrated_lufs": -20,
+        "target_true_peak_dbfs": -2,
+        "target_loudness_range": 8,
+        "fade_in_seconds": 0.45,
+        "fade_out_seconds": 0.7,
+        "source_measurements": {
+          "input_i": "-12.72",
+          "input_tp": "-0.56",
+          "input_lra": "9.60",
+          "input_thresh": "-23.25",
+          "output_i": "-18.96",
+          "output_tp": "-5.54",
+          "output_lra": "7.30",
+          "output_thresh": "-29.28",
+          "normalization_type": "dynamic",
+          "target_offset": "-1.04"
+        },
+        "encoded_measurements": {
+          "input_i": "-20.62",
+          "input_tp": "-8.68",
+          "input_lra": "7.80",
+          "input_thresh": "-31.04",
+          "output_i": "-19.69",
+          "output_tp": "-5.53",
+          "output_lra": "6.90",
+          "output_thresh": "-29.92",
+          "normalization_type": "dynamic",
+          "target_offset": "-0.31"
+        }
+      },
+      "source_probe": {
+        "programs": [],
+        "streams": [
+          {
+            "sample_rate": "48000",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "268.198667"
+        }
+      },
+      "private_download_urls_retained": false
+    },
+    {
+      "scene": "battle",
+      "title": "군령과 격전",
+      "filename": "march-to-battle-v1.mp3",
+      "request": {
+        "title": "영웅천하 — 군령과 격전",
+        "style": "instrumental, no vocals, no choir, no speech, East Asian historical fantasy real-time strategy battle soundtrack, 116 BPM, D minor, driving low string ostinato, deep buk and taiko-like war drums, plucked zither pulse, brief bamboo flute motifs, restrained brass accents, tactical tension and forward momentum, steady rhythmic energy without explosive sound effects, clear balanced production, suitable behind game combat cues, short introduction, approximately 90 seconds, loop-friendly arrangement",
+        "lyrics": "[Intro]\n[Verse]\n[Chorus]\n[Verse]\n[Chorus]\n[Outro]",
+        "instrumental": true,
+        "plan_mode": "full",
+        "seed": 20261108
+      },
+      "server_label": "GDI music / YuE2",
+      "model_checkpoint": "not reported by server",
+      "job_id": "852a0bb64048",
+      "created_at": "2026-11-07T23:37:26+0900",
+      "source_seconds": 97.878667,
+      "duration_seconds": 97.878667,
+      "source_flac_sha256": "53556501466da6a643ebb3cad455c5bfaf370fee2bb6628c64223e3cca4734a2",
+      "playback_sha256": "e48a8357f85e6e166228b9363308fd92dfdb80b1f2097cc4dd7dbc2a16f6721c",
+      "playback_bytes": 1958998,
+      "output": {
+        "codec": "mp3",
+        "bitrate": 160000,
+        "sample_rate": 48000,
+        "channels": 2
+      },
+      "mastering": {
+        "target_integrated_lufs": -20,
+        "target_true_peak_dbfs": -2,
+        "target_loudness_range": 8,
+        "fade_in_seconds": 0.45,
+        "fade_out_seconds": 0.7,
+        "source_measurements": {
+          "input_i": "-10.99",
+          "input_tp": "0.41",
+          "input_lra": "8.30",
+          "input_thresh": "-21.27",
+          "output_i": "-18.61",
+          "output_tp": "-5.99",
+          "output_lra": "6.70",
+          "output_thresh": "-28.80",
+          "normalization_type": "dynamic",
+          "target_offset": "-1.39"
+        },
+        "encoded_measurements": {
+          "input_i": "-20.46",
+          "input_tp": "-7.75",
+          "input_lra": "6.90",
+          "input_thresh": "-30.74",
+          "output_i": "-19.61",
+          "output_tp": "-6.09",
+          "output_lra": "6.80",
+          "output_thresh": "-29.79",
+          "normalization_type": "dynamic",
+          "target_offset": "-0.39"
+        }
+      },
+      "source_probe": {
+        "programs": [],
+        "streams": [
+          {
+            "sample_rate": "48000",
+            "channels": 2
+          }
+        ],
+        "format": {
+          "duration": "97.878667"
+        }
+      },
+      "private_download_urls_retained": false
+    }
+  ],
+  "verification_scope": "Generated instrumental settings and source/encoded audio technical measurements. Final musical taste and seamless-loop listening are not certified by these measurements."
+}
