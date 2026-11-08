@@ -16,3 +16,5 @@ Studio DK 가 직접 만든 것. 귀농일기 주소에 `?look=mini` 를 붙였�
 |---|---|
 | `jangdok.glb` 장독대 · `firewood.glb` 장작 헛간 · `cart.glb` 손수레 · `pyeongsang.glb` 평상 | 원화는 OpenAI 이미지 생성(codex), 3D 는 Stability AI **Stable Fast 3D**(Stability AI Community License — 연 매출 100만 달러 미만 무료, 결과물은 만든 사람 것), 다듬기는 블렌더 5.2(수평 맞추기·바닥 원점·무광). 약 1만 삼각형, 텍스처 1024px |
 | `persimmon.glb` 감나무 | 블렌더 코드로 지음(줄기·가지·잎 뭉치·감) — GDI-Apps `game/farmstory/tools/mini/tree.py` |
+| `anchae.glb` 안채 · `warehouse.glb` 창고 · `barn.glb` 축사 · `processor.glb` 가공장 · `market.glb` 직판장 · `hall.glb` 마을회관 · `home_a.glb`·`home_b.glb` 마을 집 (2026-11-08) | 소품과 같은 방법(원화 codex → Stable Fast 3D → 블렌더). 블렌더에서 벽을 축에 맞추고 문이 있는 앞면을 남쪽(+z)으로 돌려 구웠다. 약 1만 삼각형, 텍스처 1024px |
+| `greenhouse.glb` 비닐하우스 (2026-11-08) | 블렌더 코드로 지음(활대·용마루·밑판·말아 올린 옆 비닐·반투명 비닐·문틀) — GDI-Apps `game/farmstory/tools/mini/greenhouse.py`. 두둑은 게임 코드 |
