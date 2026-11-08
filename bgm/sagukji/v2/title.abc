@@ -1,0 +1,104 @@
+X:1
+T:
+M:2/4
+L:1/32
+Q:1/4=78
+V: Vocal clef=treble name="Vocal Melody" snm="Vocal"
+V: Ins clef=treble name="Ins Melody" snm="Inst."
+K:C
+% intro
+V: Vocal
+"Eb"z16|"Gm7"z16|"Abmaj7"z16|"Bb7"z16|
+V: Ins
+z4 =c8 _B4|_B8 =G4 =F4|=C4 =C4 _E8|=D8 _B,8|
+% verse
+V: Vocal
+"Abmaj7"z16|"Bb7"z16|"Cm7"z16|"Fm7"z16|
+V: Ins
+=C8 =F4 _E4|=D4 _E4 _E8|_E8 =G8|_A4 _B8 =F4|
+V: Vocal
+"Bb7"z16|"Eb"z16|"Eb"z16|"Gm7"z16|
+V: Ins
+=D8 =F4 =F4|=G,4 _E4 _E8|=G8 =G8|_B4 _B8 =G4|
+V: Vocal
+"Abmaj7"z16|"Bb7"z16|"Cm7"z16|"Fm7"z16|
+V: Ins
+=c8 =F4 _E4|=D4 _E4 _E8|_E8 =G8|_A4 _B8 =F4|
+V: Vocal
+"Bb7"z16|"Eb"z16|"Eb"z16|"Gm7"z16|
+V: Ins
+=D8 =F4 =F4|=G,4 _E4 _E8|=G8 =G8|_B4 _B8 =g4|
+% pre-chorus
+V: Vocal
+"Cm7"z16|"Fm7"z16|"Bb7"z16|"Eb"z16|
+V: Ins
+_E4 =F4 =G8|_A8 _e8|=d4 _B8 =G4|=G8 _E4 _E4|
+V: Vocal
+"Eb"z16|"Gm7"z16|"Abmaj7"z16|"Bb7"z16|
+V: Ins
+=G4 =F4 _B8|_B8 _e8|=c4 _B8 =G4|=D8 _E4 _B4|
+V: Vocal
+"Cm7"z16|"Fm7"z16|"Bb7"z16|"Eb"z16|
+V: Ins
+_E4 =F4 =G8|_A8 _e8|=d4 _B8 =G4|=G8 _e4 _e4|
+V: Vocal
+"Eb"z16|"Gm7"z16|"Abmaj7"z16|"Bb7"z16|
+V: Ins
+=G4 =F4 _B8|_B8 _e8|=c4 _B8 =G4|=D8 _E4 _b4|
+% interlude
+V: Vocal
+"Eb"z16|"Gm7"z16|"Abmaj7"z16|"Bb7"z16|
+V: Ins
+=G8 _B8|_B4 =F8 =C4|=C8 _E4 _E4|=D4 =G4 _B8|
+V: Vocal
+"Cm7"z16|"Fm7"z16|"Bb7"z16|"Eb"z16|
+V: Ins
+_e8 _B8|_A4 =F8 =C4|=D8 _E4 _E4|=G4 =G4 _e8|
+% chorus
+V: Vocal
+"Abmaj7"z16|"Bb7"z16|"Cm7"z16|"Fm7"z16|
+V: Ins
+=c4 =F8 _E4|=D8 =F4 _B4|_e4 _e4 =c8|_A8 =F8|
+V: Vocal
+"Bb7"z16|"Eb"z16|"Eb"z16|"Gm7"z16|
+V: Ins
+=D4 _E8 =F4|=G8 =F4 _B4|=G4 _e4 =c8|_B8 =G8|
+V: Vocal
+"Abmaj7"z16|"Bb7"z16|"Cm7"z16|"Fm7"z16|
+V: Ins
+=c4 =F8 _E4|=D8 =F4 _B4|_e4 _e4 =c8|_A8 =f8|
+V: Vocal
+"Bb7"z16|"Eb"z16|"Eb"z16|"Gm7"z16|
+V: Ins
+=D4 _E8 =F4|=G8 =F4 _B4|=G4 _e4 =c8|_B8 =g8|
+% bridge
+V: Vocal
+"Cm7"z16|"Fm7"z16|"Bb7"z16|"Eb"z16|
+V: Ins
+_E8 =F4 =G4|_A4 =G4 =F8|=D8 _E8|=G,4 =C8 _E4|
+V: Vocal
+"Eb"z16|"Gm7"z16|"Abmaj7"z16|"Bb7"z16|
+V: Ins
+=G,8 _E4 _B4|_B4 =G4 =F8|=C8 _E8|=D4 =C8 _B,4|
+V: Vocal
+"Cm7"z16|"Fm7"z16|"Bb7"z16|"Eb"z16|
+V: Ins
+_E8 =F4 =G4|_A4 =G4 =F8|=D8 _E8|=G,4 =C8 _e4|
+V: Vocal
+"Eb"z16|"Gm7"z16|"Abmaj7"z16|"Bb7"z16|
+V: Ins
+=G,8 _E4 _B4|_B4 =G4 =F8|=C8 _E8|=D4 =C8 _B4|
+% verse
+V: Vocal
+"Eb"z16|"Gm7"z16|"Abmaj7"z16|"Bb7"z16|
+V: Ins
+=G4 =G4 _B8|_B8 _E8|=C4 _E8 =G4|=D8 _B4 _B4|
+V: Vocal
+"Cm7"z16|"Fm7"z16|"Bb7"z16|"Eb"z16|
+V: Ins
+_e4 =G4 =G8|_A8 =C8|=D4 _E8 =G4|=G8 =c4 _e4|
+% outro
+V: Vocal
+"Abmaj7"z16|"Bb7"z16|"Cm7"z16|"Fm7"z16|
+V: Ins
+=c8 =F8|=D4 =G8 =c4|_e8 _B4 =G4|_A4 =F4 =F8|

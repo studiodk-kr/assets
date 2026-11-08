@@ -2,6 +2,8 @@
   "version": 2,
   "createdDate": "2026-11-08",
   "game": "starflight",
+  "plannedTracks": 5,
+  "remainingTracks": 0,
   "scope": "New scene-specific BGM. Original assets preserved. Graphics, engine, saves and sound effects unchanged.",
   "credentialsOrTemporaryDownloadUrlsIncluded": false,
   "auditionScope": "Technical decode/loudness and native browser playback; no claim of full human audition, perfect musical loops or historical reconstruction.",
