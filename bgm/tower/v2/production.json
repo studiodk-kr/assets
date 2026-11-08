@@ -1,0 +1,79 @@
+{
+  "version": 2,
+  "createdDate": "2026-11-08",
+  "game": "tower",
+  "plannedTracks": 25,
+  "remainingTracks": 24,
+  "scope": "New scene-specific BGM. Original assets preserved. Graphics, engine, saves and sound effects unchanged.",
+  "credentialsOrTemporaryDownloadUrlsIncluded": false,
+  "auditionScope": "Technical decode/loudness and native browser playback; no claim of full human audition, perfect musical loops or historical reconstruction.",
+  "tracks": [
+    {
+      "scene": "title",
+      "title": "The Tower — 탑이 부르는 이름",
+      "file": "title.mp3",
+      "songId": "b3a9e7500527",
+      "durationSeconds": 174.72,
+      "bytes": 3494925,
+      "sha256": "7d9f1ea3b5dced7403f659466a539949050cc67cdad712174517a4a37347756c",
+      "integratedLUFS": -20.48,
+      "truePeakDBFS": -8.62,
+      "loop": true,
+      "style": "instrumental, dark fantasy exploration game soundtrack, chamber strings, wooden flute, soft harp, low frame drums, mysterious journey, contrasting melodic passages and delicate evolving textures, spacious clean mix, solemn main theme with hopeful contrasting middle, 66 BPM",
+      "bpm": 66,
+      "mode": "minor",
+      "bars": 88,
+      "scoreSHA256": "a6e8a5d40e47d829adaa1c0e121ae8cdac155aa056b348ec33d78026ff4563ae",
+      "uniqueFourBarPhrases": 22,
+      "generator": "YuE2, newly authored ABC instrumental score",
+      "parentInstrumentalSongId": "a2e6fdd6792c",
+      "scoreFile": "title.abc",
+      "scoreReturnedByGeneratorMatchesInput": true,
+      "sourceFlacSha256": "9515e85fd692c6e63d781bf3eb18f16ff74b9d84d4bc9d31f55765106f79c323",
+      "sampleRate": 48000,
+      "channels": 2,
+      "bitrateKbps": 160,
+      "decodeErrors": false,
+      "humanFullAuditionCertified": false,
+      "mastering": {
+        "targetLUFS": -20,
+        "targetTruePeakDBFS": -2,
+        "targetLRA": 8,
+        "fadeInSeconds": 0.45,
+        "fadeOutSeconds": 0.7,
+        "sourceMeasurements": {
+          "input_i": "-11.53",
+          "input_tp": "-0.26",
+          "input_lra": "8.60",
+          "input_thresh": "-21.70",
+          "output_i": "-18.37",
+          "output_tp": "-6.53",
+          "output_lra": "5.50",
+          "output_thresh": "-28.42",
+          "normalization_type": "dynamic",
+          "target_offset": "-1.63"
+        },
+        "encodedMeasurements": {
+          "input_i": "-20.48",
+          "input_tp": "-8.62",
+          "input_lra": "5.50",
+          "input_thresh": "-30.55",
+          "output_i": "-19.95",
+          "output_tp": "-7.82",
+          "output_lra": "4.70",
+          "output_thresh": "-29.99",
+          "normalization_type": "dynamic",
+          "target_offset": "-0.05"
+        }
+      },
+      "loopBoundaryTechnical": {
+        "first100msRms": 3.726451606902295e-05,
+        "last100msRms": 0.0016801702603770848,
+        "endpointJumpMax": 3.420912493667938e-06,
+        "decodedPeak": 0.37041282653808594,
+        "decodedSeconds": 174.67866666666666,
+        "subjectiveLoopListening": false
+      }
+    }
+  ]
+}
