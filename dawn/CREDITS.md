@@ -16,3 +16,10 @@
 - 사람 모델(생존자·좀비·보스)은 믹사모라 여기 두지 않는다 — 운영 서버 `/game-assets/dawn/mx1/`(믹사모 약관상 원본 단독 배포 금지)
 
 블렌더로 다시 만들기: `blender -b --python src/crow.py -- m/an/crow.glb` · `blender -b --python src/props.py -- m/props.glb` · `blender -b --python src/map.py -- m/map.glb`(블렌더 5.2)
+
+## 실사 밤(`?look=real`) — `real/`
+
+- `real/cars.glb`(승용차·SUV·해치백·승합차·화물차)·`real/bld.glb`(편의점·셔터 상가·주택·빌라)·`real/props.glb`(가로등·전신주·쓰레기봉투·박스·고깔·배전함·자판기·분리수거함·수거함·맨홀·낙엽·상자·손전등) — 이 게임에서 블렌더로 코드로 만들었다(GDI-Apps 저장소 `game/dawn/tools/real/*.py`, CC0)
+- 건물·보도에 입힌 사진 재질과 `real/tex/`(아스팔트·보도블록·연석) — [Poly Haven](https://polyhaven.com) CC0: asphalt_02 · brick_pavement_02 · painted_plaster_wall · red_brick_03 · corrugated_iron_02 · concrete_wall_005 · concrete_pavement (1K, WebP 로 줄임)
+
+다시 만들기(블렌더 5.2, 사진 재질 1K 를 `DAWN_TEX` 폴더에 받아 둔 뒤): `blender -b -P cars.py -- real/cars.glb` · `buildings.py -- real/bld.glb` · `props.py -- real/props.glb`
