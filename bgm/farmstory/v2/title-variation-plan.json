@@ -1,0 +1,42 @@
+{
+  "parentSongId": "a2e6fdd6792c",
+  "bars": 88,
+  "uniqueFourBarPhrases": 22,
+  "exactRepeatedFourBarPhrases": 0,
+  "sections": [
+    {
+      "section": "intro",
+      "bars": 4
+    },
+    {
+      "section": "verse",
+      "bars": 16
+    },
+    {
+      "section": "pre-chorus",
+      "bars": 16
+    },
+    {
+      "section": "interlude",
+      "bars": 8
+    },
+    {
+      "section": "chorus",
+      "bars": 16
+    },
+    {
+      "section": "bridge",
+      "bars": 16
+    },
+    {
+      "section": "verse",
+      "bars": 8
+    },
+    {
+      "section": "outro",
+      "bars": 4
+    }
+  ],
+  "plannedDurationSeconds": 124.23529411764707,
+  "purpose": "User liked timbre but found title repetitive. Short intro, contrasting B section, calmer interlude, altered A return, harmonic bridge and brief final cadence. Original manually edited score; actual musical interpretation still requires listening."
+}
