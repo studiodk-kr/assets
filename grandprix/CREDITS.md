@@ -43,3 +43,5 @@
 - `tex/gravel_floor_*` — Poly Haven 「Gravel Floor」(polyhaven.com/a/gravel_floor), CC0
 - `tex/leafy_grass_*` — Poly Haven 「Leafy Grass」(polyhaven.com/a/leafy_grass), CC0
 - 사진 재질은 모두 1k 를 512px(아스팔트는 1024px) webp 로 줄였다. 이름 끝 `_diff`·`_nor`(OpenGL 법선)·`_rough`
+- 트랙 시설·소품(2026-11-08) — `m/stand.glb`·`standCovered.glb`(관중석) · `gantry.glb`(출발 문) · `garage.glb`·`office.glb`(피트 차고·관제동) · `light.glb`(조명탑) · `billboard.glb`·`billboardLow.glb`(광고판) · `tent.glb`·`tentLong.glb`(천막) · `bannerRed.glb`·`bannerGreen.glb`(깃발탑) · `flagRed.glb`·`flagGreen.glb`·`flagCheckers.glb`(깃발) · `tvcam.glb`(중계 카메라 단). 게임 저장소 `game/grandprix/tools/facilities.py` 로 블렌더에서 코드로 지었다(Studio DK 자작, 외부 자산 없음). Kenney Racing Kit 자리를 실사 판에서만 갈아 끼운다
+- `m/crowd.glb` — 실사 관중(얼굴 없는 어른 몸, 옷 여덟 벌 × 선·앉은 자세). `tools/crowd.py`(자작). Kenney Mini Characters 자리를 실사 판에서만 갈아 끼운다
