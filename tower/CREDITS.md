@@ -10,3 +10,5 @@
 이펙트 그림(`fx/`) — Kenney (www.kenney.nl) Particle Pack, CC0. 스물네 장만 골라 128·256px 로 줄였다.
 
 바닥 웅덩이 그림(`tex/` — 늪·유사·얼음·용암) — 이 게임을 위해 이미지 생성 모델(Codex 내장 image_gen)로 만들었다. 원본 1024px 은 NAS `/nas/claude/the-tower/tex/`.
+
+셀 화풍(`cel/`, 주소에 `?look=cel`) — 이 게임을 위해 새로 지었다. 산울타리·울타리·쓰러진 돌기둥·작은 돌·꽃 덤불·흰 머리는 블렌더 파이썬으로 만들었고(`game/tower/tools/cel/garden.py`·`hero.py`), 돌판 바닥 그림은 이미지 생성 모델(Codex 내장 image_gen)로 그렸다. 주인공 색표 `hero_*_cel.webp` 는 KayKit 색표를 칸마다 평면 색으로 다시 칠한 것이다(`tools/cel/heroskin.py`, 원본 CC0).
