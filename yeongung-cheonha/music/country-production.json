@@ -1,0 +1,202 @@
+{
+  "version": 1,
+  "scope": "Three generated instrumental tracks. Exact technical production metadata; no human listening or perfect musical loop claim.",
+  "existingTracksPreserved": true,
+  "tracks": [
+    {
+      "id": "bb3caabd7afa",
+      "title": "영웅천하 — 봉화의 전진",
+      "duration_seconds": 157.92,
+      "country": "KR",
+      "request": {
+        "title": "영웅천하 — 봉화의 전진",
+        "instrumental": true,
+        "plan_mode": "full",
+        "seed": 202611081,
+        "lyrics": "[Intro]\n[Verse]\n[Chorus]\n[Interlude]\n[Verse]\n[Chorus]\n[Outro]",
+        "style": "instrumental, no vocals, no choir, no speech, original Korean historical fantasy tactical battle soundtrack, janggu and deep buk drums, daegeum bamboo flute, gayageum plucked strings, restrained low orchestral strings, resolute flowing march, 100 BPM, 6/8 rolling drum pulse, spacious call-and-response flute phrases, gentle dynamic arc, clear midrange for game sound effects, controlled bass, no explosive hits, no existing-song references, short intro, approximately 120 seconds, loop-friendly arrangement"
+      },
+      "requestedDurationRangeSeconds": [
+        90,
+        150
+      ],
+      "actualOutsideTarget": true,
+      "newGenerationCountForThisTrack": 1,
+      "modelCheckpoint": "not reported by server",
+      "mastering": {
+        "targetLUFS": -20,
+        "targetTruePeakDBFS": -2,
+        "targetLRA": 8,
+        "fadeInSeconds": 0.45,
+        "fadeOutSeconds": 0.7,
+        "sourceMeasurements": {
+          "input_i": "-11.59",
+          "input_tp": "0.13",
+          "input_lra": "9.80",
+          "input_thresh": "-21.88",
+          "output_i": "-19.27",
+          "output_tp": "-5.55",
+          "output_lra": "7.50",
+          "output_thresh": "-29.40",
+          "normalization_type": "dynamic",
+          "target_offset": "-0.73"
+        },
+        "encodedMeasurements": {
+          "input_i": "-20.46",
+          "input_tp": "-6.56",
+          "input_lra": "7.90",
+          "input_thresh": "-30.62",
+          "output_i": "-20.35",
+          "output_tp": "-6.45",
+          "output_lra": "6.10",
+          "output_thresh": "-30.46",
+          "normalization_type": "dynamic",
+          "target_offset": "0.35"
+        }
+      },
+      "loopBoundaryTechnical": {
+        "first100msRms": 7.882279028989831e-06,
+        "last100msRms": 1.3720642416330345e-07,
+        "endpointJumpMax": 9.019959748002293e-07,
+        "decodedPeak": 0.4678596258163452,
+        "decodedSeconds": 157.91866666666667,
+        "subjectiveLoopListening": false
+      },
+      "decodeErrors": false,
+      "humanListening": false,
+      "file": "music/beacon-advance-v1.mp3",
+      "sha256": "2f0cec01915c707278cd470e2bbabe3b3e372368b36d2a57eae5bef72086aee6",
+      "bytes": 3159405
+    },
+    {
+      "id": "521fa1d0b6de",
+      "title": "영웅천하 — 천리의 군령",
+      "duration_seconds": 69.44,
+      "country": "CN",
+      "request": {
+        "title": "영웅천하 — 천리의 군령",
+        "instrumental": true,
+        "plan_mode": "full",
+        "seed": 202611082,
+        "lyrics": "[Intro]\n[Verse]\n[Interlude]\n[Chorus]\n[Verse]\n[Chorus]\n[Outro]",
+        "style": "instrumental, no vocals, no choir, no speech, original Chinese historical fantasy tactical battle soundtrack, pipa articulated plucks, guzheng rippling arpeggios, erhu low lyrical counterline, restrained battlefield barrel drums and low strings, patient strategic momentum, 108 BPM, 4/4 interlocking ostinato, broad descending original motif with sparse answering phrases, controlled percussion and bass, spacious midrange for game cues, no explosive hits, no existing-song references, short intro, approximately 110 seconds, loop-friendly arrangement"
+      },
+      "requestedDurationRangeSeconds": [
+        90,
+        150
+      ],
+      "actualOutsideTarget": true,
+      "newGenerationCountForThisTrack": 1,
+      "modelCheckpoint": "not reported by server",
+      "mastering": {
+        "targetLUFS": -20,
+        "targetTruePeakDBFS": -2,
+        "targetLRA": 8,
+        "fadeInSeconds": 0.45,
+        "fadeOutSeconds": 0.7,
+        "sourceMeasurements": {
+          "input_i": "-13.77",
+          "input_tp": "-0.00",
+          "input_lra": "5.10",
+          "input_thresh": "-24.03",
+          "output_i": "-19.85",
+          "output_tp": "-5.83",
+          "output_lra": "4.60",
+          "output_thresh": "-29.98",
+          "normalization_type": "dynamic",
+          "target_offset": "-0.15"
+        },
+        "encodedMeasurements": {
+          "input_i": "-20.45",
+          "input_tp": "-6.60",
+          "input_lra": "5.20",
+          "input_thresh": "-30.70",
+          "output_i": "-19.83",
+          "output_tp": "-5.81",
+          "output_lra": "4.60",
+          "output_thresh": "-29.96",
+          "normalization_type": "dynamic",
+          "target_offset": "-0.17"
+        }
+      },
+      "loopBoundaryTechnical": {
+        "first100msRms": 0.004000395484248464,
+        "last100msRms": 1.097658078808363e-06,
+        "endpointJumpMax": 6.761158828361147e-07,
+        "decodedPeak": 0.46757495403289795,
+        "decodedSeconds": 69.43866666666666,
+        "subjectiveLoopListening": false
+      },
+      "decodeErrors": false,
+      "humanListening": false,
+      "file": "music/thousand-li-orders-v1.mp3",
+      "sha256": "12ce7571aa406fb299dd295886fe21e8e034398a2b6a21d37940a6fabe355bf7",
+      "bytes": 1390125
+    },
+    {
+      "id": "891a9a90a4be",
+      "title": "영웅천하 — 바람의 진군",
+      "duration_seconds": 98.76,
+      "country": "JP",
+      "request": {
+        "title": "영웅천하 — 바람의 진군",
+        "instrumental": true,
+        "plan_mode": "full",
+        "seed": 202611083,
+        "lyrics": "[Intro]\n[Verse]\n[Chorus]\n[Interlude]\n[Verse]\n[Chorus]\n[Outro]",
+        "style": "instrumental, no vocals, no choir, no speech, original Japanese historical fantasy tactical battle soundtrack, restrained taiko drums, shamisen dry rhythmic plucks, shakuhachi breathy melodic fragments, low bowed string ensemble, nimble steady forward motion, 112 BPM, 4/4 syncopated sparse percussion with alternating plucked and bowed sections, original rising three-note motif and spacious flute response, controlled dynamics and sub bass, clear space for combat cues, no huge cinematic impacts, no existing-song references, short intro, approximately 120 seconds, loop-friendly arrangement"
+      },
+      "requestedDurationRangeSeconds": [
+        90,
+        150
+      ],
+      "actualOutsideTarget": false,
+      "newGenerationCountForThisTrack": 1,
+      "modelCheckpoint": "not reported by server",
+      "mastering": {
+        "targetLUFS": -20,
+        "targetTruePeakDBFS": -2,
+        "targetLRA": 8,
+        "fadeInSeconds": 0.45,
+        "fadeOutSeconds": 0.7,
+        "sourceMeasurements": {
+          "input_i": "-11.07",
+          "input_tp": "0.20",
+          "input_lra": "6.40",
+          "input_thresh": "-21.45",
+          "output_i": "-19.17",
+          "output_tp": "-6.43",
+          "output_lra": "5.20",
+          "output_thresh": "-29.37",
+          "normalization_type": "dynamic",
+          "target_offset": "-0.83"
+        },
+        "encodedMeasurements": {
+          "input_i": "-20.44",
+          "input_tp": "-8.63",
+          "input_lra": "6.50",
+          "input_thresh": "-30.79",
+          "output_i": "-19.16",
+          "output_tp": "-6.66",
+          "output_lra": "5.20",
+          "output_thresh": "-29.36",
+          "normalization_type": "dynamic",
+          "target_offset": "-0.84"
+        }
+      },
+      "loopBoundaryTechnical": {
+        "first100msRms": 1.4754134140212676e-06,
+        "last100msRms": 8.498383306385919e-07,
+        "endpointJumpMax": 7.22026477287252e-08,
+        "decodedPeak": 0.36912801861763,
+        "decodedSeconds": 98.75866666666667,
+        "subjectiveLoopListening": false
+      },
+      "decodeErrors": false,
+      "humanListening": false,
+      "file": "music/wind-march-v1.mp3",
+      "sha256": "2156de88348fdae74ca1992fc6ad700513ec7a1b6463a9b8379fffa5a61d4b16",
+      "bytes": 1976205
+    }
+  ]
+}
