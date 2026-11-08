@@ -34,3 +34,12 @@
 - `m/sk/p-male-a.glb` · `p-female-b.glb` · `p-male-c.glb` · `p-female-d.glb` — Kenney **Mini Characters** 1.0 (www.kenney.nl), CC0. 동작 `idle`·`walk`·`sprint`·`sit`·`drive`·`holding-both`·`holding-right` 만 남겼다. 달리는 사람·말·자전거·오토바이·카트·산책 스킨의 사람
 - `m/sk/chariot.glb` — marquestomas.work 「Roman Race Chariot」 (sketchfab.com/3d-models/roman-race-chariot-6423c7b7dd3d40558be92a1b7f65e9ac), **CC-BY 4.0** — 출처를 남긴다. 노멀·거칠기 지도를 빼고 바탕색 그림만 512 webp 로 줄였다(2026-10-16)
 - `m/sk/carriage.glb` — lauramakesgames 「Horse Carriage」 (sketchfab.com/3d-models/horse-carriage-b24c917246ee420aad3262b03db38ea7), **CC-BY-SA 4.0** — 출처를 남기고, 이 파일(줄인 판)도 같은 CC-BY-SA 4.0 으로 둔다. 노멀·거칠기 지도를 빼고 바탕색 그림만 512 webp 로 줄였다(2026-10-16)
+
+## 실사 시험판(`?look=real`, 2026-11-08) — `m/f1r.glb` · `m/fir_*.glb` · `tex/`
+
+- `m/f1r.glb` — 실사 포뮬러카. 게임 저장소 `game/grandprix/tools/f1.py` 로 블렌더에서 코드로 지었다(Studio DK 자작, 외부 자산 없음)
+- `m/fir_a.glb` · `fir_b.glb` · `fir_c.glb` — 실사 전나무. `tools/fir.py` + 가지 그림 `tools/firbranch.py`(자작). 줄기 껍질 그림 = Poly Haven 「Fir Tree 01」의 bark 그림(polyhaven.com/a/fir_tree_01), CC0 — 256px 로 줄였다
+- `tex/asphalt_track_*` — Poly Haven 「Asphalt Track」(polyhaven.com/a/asphalt_track), CC0. 색 그림은 밝기를 올렸다(원본은 갓 깐 검은 아스팔트라 게임 빛에서 새까맣다)
+- `tex/gravel_floor_*` — Poly Haven 「Gravel Floor」(polyhaven.com/a/gravel_floor), CC0
+- `tex/leafy_grass_*` — Poly Haven 「Leafy Grass」(polyhaven.com/a/leafy_grass), CC0
+- 사진 재질은 모두 1k 를 512px(아스팔트는 1024px) webp 로 줄였다. 이름 끝 `_diff`·`_nor`(OpenGL 법선)·`_rough`
