@@ -1,0 +1,44 @@
+X:1
+T:
+M:2/4
+L:1/32
+Q:1/4=82
+V: Vocal clef=treble name="Vocal Melody" snm="Vocal"
+V: Ins clef=treble name="Ins Melody" snm="Inst."
+K:C
+% intro
+V: Vocal
+"Eb"z16|"Gm7"z16|"Abmaj7"z16|"Bb7"z16|
+V: Ins
+z4 =d4 =G6 _E2|_B4 _E2 _E2 _B8|=C8 =G4 =c4|=d4 =G4 _B4 _B4|
+% verse
+V: Vocal
+"Abmaj7"z16|"Bb7"z16|"Cm7"z16|"Fm7"z16|
+V: Ins
+=C4 _E2 _B2 _e8|=d8 =c4 =G4|_E4 _B4 =d4 =G4|_A4 =F4 _E6 =F2|
+V: Vocal
+"Bb7"z16|"Eb"z16|"Eb"z16|"Gm7"z16|
+V: Ins
+=D4 _E2 _B2 =f8|=G8 =c4 =G4|=G4 _B4 =d4 =G4|_B4 =F4 _E6 =G2|
+V: Vocal
+"Abmaj7"z16|"Bb7"z16|"Cm7"z16|"Fm7"z16|
+V: Ins
+=C4 _E2 _B2 _e8|=d8 =c4 =G4|_E4 _B4 =d4 =G4|_A4 =F4 _E6 =f2|
+% chorus
+V: Vocal
+"Cm7"z16|"Fm7"z16|"Bb7"z16|"Eb"z16|
+V: Ins
+_e8 _A4 =G4|_A4 _e4 _A4 =F4|=D4 =F4 =F6 =c2|=G4 =c2 =d2 _E8|
+V: Vocal
+"Eb"z16|"Gm7"z16|"Abmaj7"z16|"Bb7"z16|
+V: Ins
+=G8 _A4 _B4|_B4 _e4 _A4 =F4|=c4 =F4 =F6 =c2|=D4 _A2 =d2 _B8|
+V: Vocal
+"Cm7"z16|"Fm7"z16|"Bb7"z16|"Eb"z16|
+V: Ins
+_e8 _A4 =G4|_A4 _e4 _A4 =F4|=D4 =F4 =F6 =c2|=G4 =c2 =d2 _e8|
+% outro
+V: Vocal
+"Eb"z16|"Gm7"z16|"Abmaj7"z16|"Bb7"z16|
+V: Ins
+=G4 =F4 _E4 _B,4|_B,4 _E4 _B6 =c2|=c4 =c2 =G2 _B8|=D8 _A4 _B4|

@@ -1,0 +1,78 @@
+X:1
+T:
+M:2/4
+L:1/32
+Q:1/4=116
+V: Vocal clef=treble name="Vocal Melody" snm="Vocal"
+V: Ins clef=treble name="Ins Melody" snm="Inst."
+K:C
+% intro
+V: Vocal
+"Ebm"z16|"B"z16|"Gb"z16|"Db"z16|
+V: Ins
+z2 ^F2 _B2 ^c2 ^F4 _B,4|_e4 ^c2 ^F2 _E4 _E4|_B2 _E2 _E4 _B2 =B2 ^F4|=F4 _B4 =B2 ^F2 ^c4|
+% verse
+V: Vocal
+"Gb"z16|"Db"z16|"Abm"z16|"Ebm"z16|
+V: Ins
+_B4 =F2 _E2 _E4 ^c4|=F2 _E2 _B4 =B2 ^F2 _B4|=B4 =B4 ^F2 _B2 ^c4|^F2 _B2 ^c2 ^F2 _E4 _E4|
+V: Vocal
+"Bb7"z16|"Ebm"z16|"Ebm"z16|"B"z16|
+V: Ins
+=d4 ^F2 _E2 _E4 =F4|^F2 _E2 _B4 =B2 ^F2 _B4|^F4 =B4 ^F2 _B2 ^c4|_E2 _B2 ^c2 ^F2 _E4 =B,4|
+V: Vocal
+"Gb"z16|"Db"z16|"Abm"z16|"Ebm"z16|
+V: Ins
+_B4 =F2 _E2 _E4 ^c4|=F2 _E2 _B4 =B2 ^F2 _B4|=B4 =B4 ^F2 _B2 ^c4|^F2 _B2 ^c2 ^F2 _e4 _e4|
+V: Vocal
+"Bb7"z16|"Ebm"z16|"Ebm"z16|"B"z16|
+V: Ins
+=d4 ^F2 _E2 _E4 =F4|^F2 _E2 _B4 =B2 ^F2 _B4|^F4 =B4 ^F2 _B2 ^c4|_E2 _B2 ^c2 ^F2 _E4 =B4|
+% interlude
+V: Vocal
+"Abm"z16|"Ebm"z16|"Bb7"z16|"Ebm"z16|
+V: Ins
+=B,2 ^F2 ^c4 _A2 =B2 _e4|^f4 =B4 =B2 _e2 _A4|=d2 _e2 _A2 =F2 =F4 =B4|^F4 =F2 =F2 =B4 _e4|
+V: Vocal
+"Ebm"z16|"B"z16|"Gb"z16|"Db"z16|
+V: Ins
+^F2 =B2 ^c4 _A2 =B2 _B4|_e4 _A4 =B2 _e2 _A4|_B2 _e2 _A2 =F2 =F4 =B4|=F4 =F2 =F2 =B4 ^c4|
+V: Vocal
+"Abm"z16|"Ebm"z16|"Bb7"z16|"Ebm"z16|
+V: Ins
+=B2 =B2 ^c4 _A2 =B2 _e4|^f4 =B4 =B2 _e2 _A4|=d2 _e2 _A2 =F2 =F4 =B4|^F4 =F2 =F2 =B4 _e4|
+% chorus
+V: Vocal
+"Ebm"z16|"B"z16|"Gb"z16|"Db"z16|
+V: Ins
+^F4 _B4 ^c2 ^F2 _B,4|_e2 _A2 _E2 _E2 _B4 =B4|_B,4 _E2 _B2 =B4 ^F4|=F2 =B2 ^F4 _B2 ^c2 ^C4|
+V: Vocal
+"Abm"z16|"Ebm"z16|"Bb7"z16|"Ebm"z16|
+V: Ins
+=B4 _B4 ^c2 ^F2 _E4|^F2 =F2 _E2 _E2 _B4 =B4|=D4 _E2 _B2 =B4 ^F4|^F2 =B2 ^F4 _B2 ^c2 _E4|
+V: Vocal
+"Ebm"z16|"B"z16|"Gb"z16|"Db"z16|
+V: Ins
+^F4 _B4 ^c2 ^F2 _B,4|_e2 _A2 _E2 _E2 _B4 =B4|_B,4 _E2 _B2 =B4 ^F4|=F2 =B2 ^F4 _B2 ^c2 ^c4|
+V: Vocal
+"Abm"z16|"Ebm"z16|"Bb7"z16|"Ebm"z16|
+V: Ins
+=B4 _B4 ^c2 ^F2 _E4|^F2 =F2 _E2 _E2 _B4 =B4|=D4 _E2 _B2 =B4 ^F4|^F2 =B2 ^F4 _B2 ^c2 _e4|
+% bridge
+V: Vocal
+"Gb"z16|"Db"z16|"Abm"z16|"Ebm"z16|
+V: Ins
+_B2 =F2 =F2 =B2 ^c4 ^c4|=F4 =B2 ^c2 _A4 =B4|=B2 _A2 =B4 _e2 _A2 =F4|^F4 ^c4 ^F2 =F2 _E4|
+V: Vocal
+"Bb7"z16|"Ebm"z16|"Ebm"z16|"B"z16|
+V: Ins
+=D2 =F2 =F2 =B2 ^c4 =F4|^F4 =B2 ^c2 _A4 =B4|^f2 =B2 =B4 _e2 _A2 =F4|_e4 _e4 _A2 =F2 =B,4|
+V: Vocal
+"Gb"z16|"Db"z16|"Abm"z16|"Ebm"z16|
+V: Ins
+_B2 =F2 =F2 =B2 ^c4 ^c4|=F4 =B2 ^c2 _A4 =B4|=B2 _A2 =B4 _e2 _A2 =F4|^F4 ^c4 ^F2 =F2 _e4|
+% outro
+V: Vocal
+"Abm"z16|"Ebm"z16|"Bb7"z16|"Ebm"z16|
+V: Ins
+=B4 =B2 ^F2 _B4 _e4|^F2 _B2 ^c4 ^F2 _E2 _E4|=d4 ^F4 _E2 _E2 _B4|^F2 _E2 _B2 =B2 ^F4 _e4|
