@@ -8,3 +8,7 @@
 - `m/props.glb` — 이동식 파티션·문서 파쇄기·복합기·정수기·서류 카트·로봇·결재함·엘리베이터·발사체(종이 뭉치·도장·메일·서류 다발·질의서·굴러가는 카트). 같은 스크립트
 
 다시 굽기: `blender -b -P src/build.py -- <Kenney Furniture Kit 의 GLTF format 폴더> <출력 폴더>` 뒤 gltf-transform 으로 dedup·weld·quantize.
+
+## 점토 사무실 시험판 (`m/clay/`, 2026-11-08)
+
+- `m/clay/office.glb`·`staff.glb`·`bugs.glb` — Studio DK 가 블렌더 파이썬으로 직접 지은 모형(사무실·인력 18명·업무 21종). 만든 스크립트는 GDI-Apps `game/gdi/tools/clay/`. 외부 자산 없음
