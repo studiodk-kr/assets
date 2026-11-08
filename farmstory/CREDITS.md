@@ -20,3 +20,4 @@ Studio DK 가 직접 만든 것. 귀농일기 주소에 `?look=mini` 를 붙였�
 | `greenhouse.glb` 비닐하우스 (2026-11-08) | 블렌더 코드로 지음(활대·용마루·밑판·말아 올린 옆 비닐·반투명 비닐·문틀) — GDI-Apps `game/farmstory/tools/mini/greenhouse.py`. 두둑은 게임 코드 |
 | `wall.glb` 돌담 1m 조각 · `gate.glb` 기와 대문 · `step.glb` 디딤돌 · `well.glb` 우물 · `clothesline.glb` 빨랫줄 (2026-11-08) | 블렌더 코드로 지음 — GDI-Apps `game/farmstory/tools/mini/yard.py`. 돌담은 게임이 1m 조각을 담 길이만큼 되풀이해 놓는다 |
 | `tree_round.glb`·`tree_round2.glb` 둥근 나무 · `tree_kaki.glb` 감나무 · `tree_ginkgo.glb` 은행나무 · `tree_zelkova.glb` 정자나무 · `tree_pine.glb` 소나무 · `bush.glb` 덤불 · `bush_flower.glb` 꽃 덤불 · `flowers.glb` 꽃 무더기 (2026-11-08) | 블렌더 코드로 지음 — GDI-Apps `game/farmstory/tools/mini/trees.py`. 잎 재질(`leafTop`·`leafMid`·`leafLow`)은 게임이 계절 색을 입힌다 |
+| `crops.glb` 작물 — 밭 작물 11가지(상추·시금치·부추·미나리·감자·고구마·마늘·참외·딸기·연근·산나물)와 과일나무 4가지(감·자두·포도·사과)를 4단계씩, 물체 60개 (2026-11-08) | 블렌더 코드로 지음 — GDI-Apps `game/farmstory/tools/mini/crops.py` |
