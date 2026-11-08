@@ -7,3 +7,12 @@
 | `m/nature.glb` | Stylized Nature MegaKit — 덤불 2·꽃 1·풀 3·클로버·풀포기·바위 3·자갈 3·버섯·디딤돌 3 (18종, 그림 512px webp 로 줄임) | Quaternius (https://quaternius.itch.io/stylized-nature-megakit) | CC0 1.0 |
 
 만든 법(2026-10-10): `gltf-transform merge <18개 .gltf> → optimize --texture-compress webp --texture-size 512 --compress false --join false --instance false --flatten false`. 잎·풀 그림은 원래 단색 덩어리(엔진에서 색을 입힘)라 게임이 불러올 때 모양(알파)만 남기고 색을 입힌다(`game/farmstory/p0/js/nature.js`).
+
+## 미니어처 화풍 소품 `m/mini/` (2026-11-08)
+
+Studio DK 가 직접 만든 것. 귀농일기 주소에 `?look=mini` 를 붙였을 때만 쓴다(`game/farmstory/v2/js/mini.js`).
+
+| 파일 | 만든 법 |
+|---|---|
+| `jangdok.glb` 장독대 · `firewood.glb` 장작 헛간 · `cart.glb` 손수레 · `pyeongsang.glb` 평상 | 원화는 OpenAI 이미지 생성(codex), 3D 는 Stability AI **Stable Fast 3D**(Stability AI Community License — 연 매출 100만 달러 미만 무료, 결과물은 만든 사람 것), 다듬기는 블렌더 5.2(수평 맞추기·바닥 원점·무광). 약 1만 삼각형, 텍스처 1024px |
+| `persimmon.glb` 감나무 | 블렌더 코드로 지음(줄기·가지·잎 뭉치·감) — GDI-Apps `game/farmstory/tools/mini/tree.py` |
